@@ -16,3 +16,6 @@ Example :
 
 python3 xkcd_downloader.py -l 956
 
+## Author / Creator
+ ItzDemonVG
+Contact - Vedantgames@gmail.com
